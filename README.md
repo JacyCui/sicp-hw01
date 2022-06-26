@@ -21,19 +21,19 @@
 
 ## Starter Files
 
-Get your starter file by cloning the repository: https://github.com/JacyCui/sicp-lab00.git
+Get your starter file by cloning the repository: https://github.com/JacyCui/sicp-hw01.git
 
 ```
-git clone https://github.com/JacyCui/sicp-lab00.git
+git clone https://github.com/JacyCui/sicp-hw01.git
 ```
 
 `lab00.zip` is the starter file you need, you might need to unzip the file to get the skeleton code.
 
 ```
-unzip lab00.zip
+unzip hw01.zip
 ```
 
-`README.md` is the handout for this lab. `solution` is a probrab solution the the lab. However, I might not give my solution exactly when the lab or homework is posted. You need to finish the task on your own first. If any problems occurs, please make use of the comment section.
+`README.md` is the handout for this homework. `solution` is a probrab solution of the homework. However, I might not give my solution exactly when the homework is posted. You need to finish the task on your own first. If any problems occurs, please make use of the comment section.
 
 
 
