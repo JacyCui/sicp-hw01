@@ -256,3 +256,12 @@ python3 ok -q hailstone --local
 
 
 
+## Doctest
+
+Run the doctest of `hw01.py` like:
+
+```shell
+python3 -m doctest hw01.py
+```
+
+If nothing happened, you should pass all the doctests.
