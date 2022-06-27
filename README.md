@@ -23,13 +23,13 @@
 
 Get your starter file by cloning the repository: https://github.com/JacyCui/sicp-hw01.git
 
-```
+```shell
 git clone https://github.com/JacyCui/sicp-hw01.git
 ```
 
 `lab00.zip` is the starter file you need, you might need to unzip the file to get the skeleton code.
 
-```
+```shell
 unzip hw01.zip
 ```
 
